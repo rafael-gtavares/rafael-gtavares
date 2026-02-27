@@ -42,9 +42,9 @@ Atualmente, foco na evolução do projeto, planejando novas funcionalidades de g
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gtavares&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gtavares&layout=compact&langs_count=7&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-gtavares&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Rafael's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gtavares&layout=compact&langs_count=7&theme=tokyonight" alt="Rafael's Top Languages" />
 </p>
 
 ---
