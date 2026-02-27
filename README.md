@@ -1,18 +1,59 @@
-## Olá, eu sou o Rafael Tavares!
+# Olá, eu sou o Rafael Tavares! 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafael-PostgreeSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:rafael.tavares.informatica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-tavares2008/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Desenvolvedor Full Stack em Formação | Estudante de Informática no CEFET/RJ
 
+Estudante do último ano no **CEFET/RJ**, focado na criação de interfaces eficientes e soluções estruturadas. Minha base técnica é forjada em disciplina rigorosa e projetos práticos que exigem domínio de lógica, bancos de dados e versionamento de código. Atualmente, atuo como **Estagiário de Desenvolvimento**, transformando desafios reais em soluções digitais.
+
+---
+
+### 🚀 O que eu faço
+
+* **Front-end:** Criação de interfaces responsivas e otimizadas com **HTML5, CSS3 e JavaScript Vanilla**, focando sempre em performance e experiência do usuário.
+* **Back-end:** Desenvolvimento de APIs robustas utilizando **Python e Flask**, com foco em integração fluida de dados.
+* **Bancos de Dados:** Domínio completo de **SQL (PostgreSQL)** — da modelagem/normalização à implementação — e expandindo conhecimentos em **NoSQL (MongoDB)**.
+* **DevOps & Ferramentas:** Uso diário de **Linux** e versionamento profissional com **Git/GitHub**.
+
+---
+
+### 🛠 Tech Stack
+
+**Front-end**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Back-end & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ferramentas & SO**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🏆 Destaque Técnico: Projeto Bosque Digital
+Desenvolvido em colaboração com uma equipe multidisciplinar para a **SEPEX**, este projeto consiste em uma plataforma de catalogação botânica via QR Code. 
+
+Minhas principais contribuições no time foram:
+* **Desenvolvimento Frontend:** Criação da interface completa e responsiva, com foco em usabilidade e integração/consumo de APIs.
+* **Dados:** Atuação direta na modelagem e implementação do banco de dados PostgreSQL.
+* **Infraestrutura:** Responsável pela configuração e processo de deploy da aplicação.
+
+Atualmente, foco na evolução do projeto, planejando novas funcionalidades de geolocalização e uma repaginação geral da interface.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gtavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gtavares&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gtavares) 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-rafael-tavares.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21974811883)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.tavares.informatica@gmail.com)
+
+*"Código não é apenas sobre resolver problemas, é sobre construir soluções que escalam e geram valor real."*
