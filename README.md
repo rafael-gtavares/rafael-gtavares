@@ -9,7 +9,7 @@ Estudante do último ano no **CEFET/RJ**, focado na criação de interfaces efic
 ### 🚀 O que eu faço
 
 * **Front-end:** Criação de interfaces responsivas e otimizadas com **HTML5, CSS3 e JavaScript Vanilla**, focando sempre em performance e experiência do usuário.
-* **Back-end:** Desenvolvimento de APIs robustas utilizando **Python e Flask**, com foco em integração fluida de dados.
+* **Back-end:** Expandindo conhecimentos em **Python e Flask**, focado na construção de APIs e na integração eficiente entre a lógica do servidor e bancos de dados.
 * **Bancos de Dados:** Domínio completo de **SQL (PostgreSQL)** — da modelagem/normalização à implementação — e expandindo conhecimentos em **NoSQL (MongoDB)**.
 * **DevOps & Ferramentas:** Uso diário de **Linux** e versionamento profissional com **Git/GitHub**.
 
@@ -40,11 +40,11 @@ Atualmente, foco na evolução do projeto, planejando novas funcionalidades de g
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-gtavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gtavares&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafael-gtavares&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gtavares&layout=compact&theme=tokyonight" />
 </p>
 
 ---
