@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack em Formação | Estudante de Informática no CEFET/RJ
 
-Estudante do último ano no **CEFET/RJ**, focado na criação de interfaces eficientes e soluções estruturadas. Minha base técnica é forjada em disciplina rigorosa e projetos práticos que exigem domínio de lógica, bancos de dados e versionamento de código. Atualmente, atuo como **Estagiário de Desenvolvimento**, transformando desafios reais em soluções digitais.
+Estudante do último ano no **CEFET/RJ**, focado na criação de interfaces eficientes e soluções estruturadas. Minha base técnica é forjada em disciplina rigorosa e projetos práticos que exigem domínio de lógica, bancos de dados e versionamento de código.
 
 ---
 
